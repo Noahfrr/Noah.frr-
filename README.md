@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer+🤖;Class+12+CS+Student+🎓;Learning+Python+%26+Sqlite3+🚀" alt="Typing SVG" />
 </p>
 
-# 👋 Hey, I'm Noah < />
+# 👋 Hey, I'm Noah </>
 
 🚀 **Class 12 CS Student | Discord Bot Developer**
 
@@ -21,7 +21,7 @@ Currently working on **[Universal]((https://discord.com/oauth2/authorize?client_
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite3" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite" />
 </p>
 
 ---

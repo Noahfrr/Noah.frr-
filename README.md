@@ -40,7 +40,6 @@ Currently working on **[Universal]((https://discord.com/oauth2/authorize?client_
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/Noahfrr"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://avyra-ai.onrender.com/"><img src="https://img.shields.io/badge/AvyraAI-0088cc?style=for-the-badge&logo=aiqfome&logoColor=white"/></a>
   <a href="https://discord.com/users/908881051181535293">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>

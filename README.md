@@ -23,7 +23,7 @@ Currently working on **[Avyra AI](https://avyra-ai.onrender.com/)** – my perso
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,ts,nodejs,express,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,nodejs,github,git,vscode" />
 </p>
 
 ---
